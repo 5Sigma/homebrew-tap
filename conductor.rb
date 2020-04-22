@@ -1,4 +1,4 @@
-class Spyder < Formula
+class Conductor < Formula
   desc "Project runner and stack manager"
   homepage "https://github.com/5Sigma/conductor"
   url "https://github.com/5Sigma/conductor/releases/download/v0.3.0/spyder_0.3.0_darwin_amd64.tar.gz"
