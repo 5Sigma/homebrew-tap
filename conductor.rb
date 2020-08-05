@@ -3,7 +3,7 @@ class Conductor < Formula
   homepage "https://github.com/5Sigma/conductor"
   url "https://github.com/5Sigma/conductor/releases/download/v0.3.0/conductor-darwin.zip"
   version "0.3.0"
-  sha256 "9c473c1860721be71a8f2efa1b99655783178dff0682757d6b75d11d5d9e5de4"
+  sha256 "088e8127b98b204ae389735abcf366e0bc2e31870eda5e3b6862938179a80eac"
 
   def install
     bin.install "conductor"
